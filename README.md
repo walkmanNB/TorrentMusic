@@ -1,7 +1,7 @@
 # 🎵 Mini Decentralized Music Player
 
 一个基于 PyQt5 构建的极简、现代、去中心化的毛玻璃风格音乐播放器。支持通过 GitHub 托管的 JSON 订阅源和云端音频资源，实现零服务器成本的个人音乐库自由掌控；同时内置了接入 `lrclib.net` 的去中心化多源歌词同步系统，拥有媲美 Apple Music 的沉浸式大屏歌词体验。
-
+![播放器截图](https://raw.githubusercontent.com/walkmanNB/TorrentMusic/refs/heads/main/Screenshot%202026-08-25%20193658.png)
 ---
 
 ## ✨ 核心特性
